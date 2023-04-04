@@ -1,0 +1,1 @@
+import{d as t,j as s,$ as n,o as r,e as a}from"./entry.386a7022.js";const _=t({__name:"index",setup(c){const e=s(),o=n();return e.replace(`/single/${o.params.id}/info`),(u,p)=>(r(),a("div"))}});export{_ as default};

@@ -1,0 +1,1 @@
+import{d as a,b as n,c,o as s,e as t}from"./entry.386a7022.js";const l=a({__name:"advanced",setup(o){const{t:e}=n();return c({title:()=>`${e("seo.30nama")} | ${e("seo.advancedSearch")}`}),(d,r)=>(s(),t("div",null," Advanced Search "))}});export{l as default};
