@@ -1,1 +1,0 @@
-import{d as s,p as n,y as t,o as r,e as a}from"./entry.facd84ab.js";const m=s({__name:"index",setup(c){const e=n(),{isLoggedIn:o}=t();return e.replace("/menu/"+(o?"dashboard":"home")),(p,u)=>(r(),a("div"))}});export{m as default};

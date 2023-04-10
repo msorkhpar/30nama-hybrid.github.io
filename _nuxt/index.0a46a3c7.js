@@ -1,0 +1,1 @@
+import{d as s,W as o,p as c,X as n,o as r,e as l}from"./entry.38bd7453.js";const _=s({__name:"index",setup(u){const a=o(),e=c(),t=n("lastWatchedTitle",()=>a.continueWatching[0].id);return t.value?e.replace("/play/"+t.value):e.replace("/"),(i,p)=>(r(),l("div"))}});export{_ as default};
