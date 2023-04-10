@@ -1,1 +1,0 @@
-import{d as s,j as n,I as t,o as r,e as a}from"./entry.386a7022.js";const p=s({__name:"index",setup(c){const e=n(),{isLoggedIn:o}=t();return e.replace("/menu/"+(o?"dashboard":"home")),(u,d)=>(r(),a("div"))}});export{p as default};
