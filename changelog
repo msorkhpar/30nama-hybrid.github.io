@@ -1,0 +1,28 @@
+lang::en
+Feature: Added download manager
+Feature: Added dismiss continue watching items
+line::separate
+Fixed: Video not being paused when app is closed
+Fixed: min and max year inputs in advanced search
+Fixed: Reload causes router to crash
+Fixed: Dubbed audio channels in video player
+Fixed: New notifications not showing correctly
+Fixed: Terminated sessions not being logged out
+line::separate
+Improved: Added loader to video player
+Improved: Video player settings height for better UX
+Improved: Free titles badges
+lang::fa
+ویژگی: اضافه شدن مدیریت دانلودها
+ویژگی: اضافه شدن رد کردن عناوین تماشای ادامه
+line::separate
+رفع مشکل: ویدیو در هنگام بستن برنامه متوقف نمی شود
+رفع مشکل: ورودی های سال حداقل و حداکثر در جستجوی پیشرفته
+رفع مشکل: بارگذاری مجدد باعث کرش شدن router می شود
+رفع مشکل: کانال های صوتی دوبله شده در پخش کننده ویدیو
+رفع مشکل: اعلان های جدید به درستی نشان داده نمی شوند
+رفع مشکل: نشست های پایان یافته خارج نمی شوند
+line::separate
+بهبود: اضافه شدن loader به پخش کننده ویدیو
+بهبود: ارتفاع تنظیمات پخش کننده ویدیو برای تجربه کاربری بهتر
+بهبود: نشانگرهای عناوین رایگان
