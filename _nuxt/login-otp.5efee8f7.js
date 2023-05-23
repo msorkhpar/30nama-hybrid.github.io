@@ -1,1 +1,0 @@
-import{d as o,b as t,c as n,o as s,e as a}from"./entry.a38ac9df.js";const i=o({__name:"login-otp",setup(c){const{t:e}=t();return n({title:()=>`${e("seo.30nama")} | ${e("seo.loginOtp")}`}),(l,p)=>(s(),a("div",null," login-otp "))}});export{i as default};
