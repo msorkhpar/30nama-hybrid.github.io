@@ -1,4 +1,7 @@
 lang::en
+Feature: Added season episodes bulk download option
+Fixed: Minor bug fixes
+line::separate
 Feature: Added download manager
 Feature: Added dismiss continue watching items
 line::separate
@@ -13,8 +16,11 @@ Improved: Added loader to video player
 Improved: Video player settings height for better UX
 Improved: Free titles badges
 lang::fa
+ویژگی: اضافه شدن گزینه دانلود قسمت های فصل
+رفع مشکل: بهبود عملکرد کلی
+line::separate
 ویژگی: اضافه شدن مدیریت دانلودها
-ویژگی: اضافه شدن رد کردن عناوین تماشای ادامه
+ویژگی: اضافه شدن حذف عناوین در ادامه تماشا
 line::separate
 رفع مشکل: ویدیو در هنگام بستن برنامه متوقف نمی شود
 رفع مشکل: ورودی های سال حداقل و حداکثر در جستجوی پیشرفته
