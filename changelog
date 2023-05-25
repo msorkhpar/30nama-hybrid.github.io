@@ -1,34 +1,6 @@
 lang::en
-Feature: Added season episodes bulk download option
-Fixed: Minor bug fixes
-line::separate
-Feature: Added download manager
-Feature: Added dismiss continue watching items
-line::separate
-Fixed: Video not being paused when app is closed
-Fixed: min and max year inputs in advanced search
-Fixed: Reload causes router to crash
-Fixed: Dubbed audio channels in video player
-Fixed: New notifications not showing correctly
-Fixed: Terminated sessions not being logged out
-line::separate
-Improved: Added loader to video player
-Improved: Video player settings height for better UX
-Improved: Free titles badges
+Feature: Added disable minimize to tray option
+Fixed: updateAvailable button not working on MAC
 lang::fa
-ویژگی: اضافه شدن گزینه دانلود قسمت های فصل
-رفع مشکل: بهبود عملکرد کلی
-line::separate
-ویژگی: اضافه شدن مدیریت دانلودها
-ویژگی: اضافه شدن حذف عناوین در ادامه تماشا
-line::separate
-رفع مشکل: ویدیو در هنگام بستن برنامه متوقف نمی شود
-رفع مشکل: ورودی های سال حداقل و حداکثر در جستجوی پیشرفته
-رفع مشکل: بارگذاری مجدد باعث کرش شدن router می شود
-رفع مشکل: کانال های صوتی دوبله شده در پخش کننده ویدیو
-رفع مشکل: اعلان های جدید به درستی نشان داده نمی شوند
-رفع مشکل: نشست های پایان یافته خارج نمی شوند
-line::separate
-بهبود: اضافه شدن loader به پخش کننده ویدیو
-بهبود: ارتفاع تنظیمات پخش کننده ویدیو برای تجربه کاربری بهتر
-بهبود: نشانگرهای عناوین رایگان
+ویژگی: اضافه شدن قابلیت غیر فعال کردن minimize to tray
+رفع مشکل: کار نکردن گزینه بروز رسانی در MAC

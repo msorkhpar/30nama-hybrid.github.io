@@ -1,1 +1,0 @@
-import{d as s,ac as c,p as o,ad as n,o as r,e as l}from"./entry.bed34153.js";const _=s({__name:"index",setup(u){const t=c(),e=o(),a=n("lastWatchedTitle",()=>t.continueWatching[0].id);return a.value?e.replace("/play/"+a.value):e.replace("/"),(i,p)=>(r(),l("div"))}});export{_ as default};

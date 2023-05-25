@@ -1,0 +1,1 @@
+import{d as s,p as n,A as t,o as r,e as a}from"./entry.3dd1d872.js";const m=s({__name:"index",setup(c){const e=n(),{isLoggedIn:o}=t();return e.replace("/menu/"+(o?"dashboard":"home")),(p,u)=>(r(),a("div"))}});export{m as default};

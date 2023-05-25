@@ -1,0 +1,1 @@
+import{d as e,b as s,c as t,o as a,e as r}from"./entry.3dd1d872.js";const _=e({__name:"forgot-password",setup(n){const{t:o}=s();return t({title:()=>`${o("seo.30nama")} | ${o("seo.forgotPassword")}`}),(c,p)=>(a(),r("div",null," forgot-password "))}});export{_ as default};

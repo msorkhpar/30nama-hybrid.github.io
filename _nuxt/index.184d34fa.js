@@ -1,1 +1,0 @@
-import{d as t,p as s,S as n,o as r,e as a}from"./entry.bed34153.js";const _=t({__name:"index",setup(c){const e=s(),o=n();return e.replace(`/single/${o.params.id}/info`),(p,u)=>(r(),a("div"))}});export{_ as default};
