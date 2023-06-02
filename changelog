@@ -1,6 +1,6 @@
 lang::en
-Feature: Added disable minimize to tray option
-Fixed: updateAvailable button not working on MAC
+Feature: Added stream servers optimization
+Minor bug fixes and quality of life improvements
 lang::fa
-ویژگی: اضافه شدن قابلیت غیر فعال کردن minimize to tray
-رفع مشکل: کار نکردن گزینه بروز رسانی در MAC
+ویژگی: اضافه شدن قابلیت بهینه سازی سرورهای استریم خودکار
+رفع اشکالات جزئی دیگر
